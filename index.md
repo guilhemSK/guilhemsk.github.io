@@ -1,4 +1,4 @@
-# About
+
 
 I am a computational ecologist broadly interested in microbial ecology and evolution across ecosystems. In particular, I am interested in leveraging large molecular datasets to answer basic questions in microbial ecology: 
 
