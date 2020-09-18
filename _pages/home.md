@@ -1,6 +1,6 @@
 ---
 layout: single
 classes: wide
-permalink: /research
+permalink: /research/
 author_profile: true
 ---
