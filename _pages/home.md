@@ -19,7 +19,7 @@ feature_row:
     url: "/research/ocean-plankton/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/PP-K3-bact-prot-fungi.png
+  - image_path: /assets/PP-K3-bact-prot-fungi3.png
     alt: "Soil community ecology"
     title: "Soil community ecology"
     excerpt: "Characterizing and understanding the spatial structure of soil biodiversity."
